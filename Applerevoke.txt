@@ -5,12 +5,14 @@ crl.apple.com
 certs.apple.com
 appattest.apple.com
 vpp.itunes.apple.com
+ocsp.digicert.com
+
 
 #appleupdateonlydomains#
 #
-#mesu.apple.com
-#guzzoni-apple-com.v.aaplimg.com
-#gdmf.apple.com
-#axm-app.apple.com
-#comm-cohort.ess.apple.com
-#comm-main.ess.apple.com
+mesu.apple.com
+guzzoni-apple-com.v.aaplimg.com
+gdmf.apple.com
+axm-app.apple.com
+comm-cohort.ess.apple.com
+comm-main.ess.apple.com
